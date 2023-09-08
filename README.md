@@ -4,8 +4,9 @@
 
 
 **
+#Athipbodi Nakphong 
 print ("ข้อ1")
-# BY Athipbodi Nakphong
+
 A = 15
 if ((A%3) == 0) :
     print ("ตอบ",'OK')
@@ -22,7 +23,7 @@ if ((A+B)>C) :
     C=7
 else :
     A=3
-# BY Athipbodi Nakphong
+#Athipbodi Nakphong 
 print ("ตอบ",A+B+C)
 #คำตอบ
 print ("ข้อ3")
@@ -37,7 +38,7 @@ print ("ตอบ",'A+B=',A+B)
 #คำตอบ
 
 print ("ข้อ4")
-# BY Athipbodi Nakphong
+#Athipbodi Nakphong 
 import random
 A= random.randint (1,10)
 B= random.randint (1,10)
@@ -48,7 +49,7 @@ else :
     C=5
 print("ตอบ",C)
 #คำตอบ
-# BY Athipbodi Nakphong
+
 print ("ข้อ5")
 
 A=3 ; B=4 ; c=7
@@ -59,5 +60,5 @@ if (C>A) :
     B=2
 print ("ตอบ",'A+B+',A+B)
 #คำตอบ
-# BY Athipbodi Nakphong
+#Athipbodi Nakphong 
 **
